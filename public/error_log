@@ -1,0 +1,18 @@
+[22-Mar-2020 22:24:37 UTC] PHP Parse error:  syntax error, unexpected 'ernel' (T_STRING), expecting '{' in /home/maarfcom/public_html/aphrodite/app/Http/Kernel.php on line 7
+[26-Mar-2020 21:53:54 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ImagesController::getImage() in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Api/ImagesController.php on line 497
+[26-Mar-2020 21:54:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ImagesController::getImage() in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Api/ImagesController.php on line 497
+[23-May-2020 15:52:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:52:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:53:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:53:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:56:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:56:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:56:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:56:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:56:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:57:51 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:57:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:58:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[23-May-2020 15:59:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/maarfcom/public_html/aphrodite/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[13-Jun-2020 20:10:17 UTC] PHP Fatal error:  Cannot use App\PictureCollection as PictureCollection because the name is already in use in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Admin/PicturesController.php on line 12
+[13-Jun-2020 20:10:54 UTC] PHP Fatal error:  Cannot use App\PictureCollection as PictureCollection because the name is already in use in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Admin/PicturesController.php on line 12

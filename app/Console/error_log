@@ -1,0 +1,8 @@
+[04-Jun-2020 17:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/maarfcom/public_html/aphrodite/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Console/Kernel.php on line 8
+[04-Jun-2020 23:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/maarfcom/public_html/aphrodite/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Console/Kernel.php on line 8

@@ -1,0 +1,40 @@
+[04-Jun-2020 17:14:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/AppServiceProvider.php on line 7
+[04-Jun-2020 17:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/AuthServiceProvider.php on line 8
+[04-Jun-2020 17:14:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/BroadcastServiceProvider.php on line 8
+[04-Jun-2020 17:14:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/EventServiceProvider.php on line 10
+[04-Jun-2020 17:14:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/RouteServiceProvider.php on line 8
+[04-Jun-2020 23:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/AppServiceProvider.php on line 7
+[04-Jun-2020 23:27:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/AuthServiceProvider.php on line 8
+[04-Jun-2020 23:27:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/BroadcastServiceProvider.php on line 8
+[04-Jun-2020 23:27:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/EventServiceProvider.php on line 10
+[04-Jun-2020 23:27:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/maarfcom/public_html/aphrodite/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Providers/RouteServiceProvider.php on line 8

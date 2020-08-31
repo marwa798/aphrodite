@@ -1,0 +1,8 @@
+[04-Jun-2020 17:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/maarfcom/public_html/aphrodite/app/Mail/AdminsResetPassword.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Mail/AdminsResetPassword.php on line 10
+[04-Jun-2020 23:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/maarfcom/public_html/aphrodite/app/Mail/AdminsResetPassword.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Mail/AdminsResetPassword.php on line 10

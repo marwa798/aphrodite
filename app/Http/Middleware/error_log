@@ -1,0 +1,48 @@
+[04-Jun-2020 18:13:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/Authenticate.php on line 7
+[04-Jun-2020 18:13:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[04-Jun-2020 18:13:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/EncryptCookies.php on line 7
+[04-Jun-2020 18:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrimStrings.php on line 7
+[04-Jun-2020 18:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrustProxies.php on line 8
+[04-Jun-2020 18:14:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Jun-2020 01:32:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/Authenticate.php on line 7
+[05-Jun-2020 01:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[05-Jun-2020 01:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/EncryptCookies.php on line 7
+[05-Jun-2020 01:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrimStrings.php on line 7
+[05-Jun-2020 01:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/TrustProxies.php on line 8
+[05-Jun-2020 01:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Middleware/VerifyCsrfToken.php on line 7

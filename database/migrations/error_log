@@ -1,0 +1,16 @@
+[04-Jun-2020 17:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Jun-2020 17:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[04-Jun-2020 23:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[04-Jun-2020 23:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

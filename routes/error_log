@@ -1,0 +1,60 @@
+[04-Jun-2020 16:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/admin.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/admin.php on line 4
+[04-Jun-2020 16:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/api.php on line 16
+[04-Jun-2020 16:58:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/maarfcom/public_html/aphrodite/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/channels.php on line 14
+[04-Jun-2020 16:58:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/maarfcom/public_html/aphrodite/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/console.php on line 16
+[04-Jun-2020 16:58:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/web.php on line 13
+[04-Jun-2020 22:47:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/admin.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/admin.php on line 4
+[04-Jun-2020 22:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/api.php on line 16
+[04-Jun-2020 22:47:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/maarfcom/public_html/aphrodite/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/channels.php on line 14
+[04-Jun-2020 22:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/maarfcom/public_html/aphrodite/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/console.php on line 16
+[04-Jun-2020 22:47:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/web.php on line 13
+[06-Jun-2020 10:43:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/api.php on line 16
+[08-Jun-2020 17:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/web.php on line 13
+[09-Jun-2020 05:11:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/web.php on line 13
+[09-Jun-2020 06:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/maarfcom/public_html/aphrodite/routes/admin.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/admin.php on line 4
+[09-Jun-2020 17:29:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/maarfcom/public_html/aphrodite/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/routes/console.php on line 16

@@ -1,0 +1,8 @@
+[04-Jun-2020 18:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Controller.php on line 10
+[05-Jun-2020 01:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/app/Http/Controllers/Controller.php on line 10

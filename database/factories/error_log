@@ -1,0 +1,8 @@
+[04-Jun-2020 17:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/maarfcom/public_html/aphrodite/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/factories/UserFactory.php on line 19
+[04-Jun-2020 23:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/maarfcom/public_html/aphrodite/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/factories/UserFactory.php on line 19

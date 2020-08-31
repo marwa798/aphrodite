@@ -1,0 +1,8 @@
+[04-Jun-2020 17:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/maarfcom/public_html/aphrodite/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/seeds/DatabaseSeeder.php on line 5
+[04-Jun-2020 23:33:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/maarfcom/public_html/aphrodite/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/database/seeds/DatabaseSeeder.php on line 5

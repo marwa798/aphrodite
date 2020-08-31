@@ -1,0 +1,12 @@
+[04-Jun-2020 17:23:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php on line 8
+[04-Jun-2020 23:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php on line 8
+[09-Jun-2020 09:02:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/tests/Unit/ExampleTest.php on line 8

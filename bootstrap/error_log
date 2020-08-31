@@ -1,0 +1,12 @@
+[04-Jun-2020 16:56:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/maarfcom/public_html/aphrodite/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/bootstrap/app.php on line 14
+[04-Jun-2020 22:43:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/maarfcom/public_html/aphrodite/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/bootstrap/app.php on line 14
+[06-Jun-2020 13:23:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/maarfcom/public_html/aphrodite/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/maarfcom/public_html/aphrodite/bootstrap/app.php on line 14
